@@ -1,6 +1,7 @@
 # Hi 😘
 
 ### [✌🏻 My Github Pages](https://Y0rFa1se.github.io)
+### [👍🏻 My Page](https://y0rfa1se.duckdns.org)
 
 ### Links
 
