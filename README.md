@@ -6,7 +6,6 @@
 ### Links
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/___.___.___.__._____.___.__.__)
-[![tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://2003-03-17.tistory.com)
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:y0rfa1se0@gmail.com)
 
 
