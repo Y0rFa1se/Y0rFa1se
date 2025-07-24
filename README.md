@@ -1,8 +1,5 @@
 # Hi 😘
 
-### [✌🏻 My Github Pages](https://Y0rFa1se.github.io)
-### [👍🏻 My Page](https://y0rfa1se.duckdns.org)
-
 ### Links
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/___.___.___.__._____.___.__.__)
